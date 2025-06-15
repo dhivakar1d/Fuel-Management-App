@@ -39,10 +39,19 @@ Mobile support (Kivy or Flutter integration)
 
 ## Technologies Used
 
-Python 3
-Pandas (optional)
-CSV / SQLite
-Tkinter (if GUI)
+Software Requirements: -
+Front End: HTML5, CSS3, Bootstrap
+Back End: PHP, MYSQL
+Control End: Angular Java Script
+
+Android Tools:
+    IDE: android Studio
+
+PHP Tools:
+       xampp-win32-5.5.19-0-VC11
+Android Emulator
+    xampp-win32-5.5.19-0-VC11
+
 
 ## License
 
