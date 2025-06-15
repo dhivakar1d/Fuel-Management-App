@@ -30,23 +30,23 @@ FuelApp/
 └── requirements.txt
 
 
-Future Improvements
+##Future Improvements
 
 Graphical UI using Tkinter or PyQt
 Cloud data sync (e.g., Firebase, SQLite)
 User authentication
 Mobile support (Kivy or Flutter integration)
 
-Technologies Used
+##Technologies Used
 
 Python 3
 Pandas (optional)
 CSV / SQLite
 Tkinter (if GUI)
 
-License
+##License
 
 This project is licensed under the MIT License.
 
-Author
+##Author
 Dhivakar
