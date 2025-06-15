@@ -29,18 +29,6 @@ FuelApp/
 ├── README.md
 └── requirements.txt
 
-## Getting Started
-
-### 1. Clone the Repository
-
-git clone https://github.com/yourusername/fuel-app.git
-cd fuel-app
-
-Install Requirements
-pip install -r requirements.txt
-
-Run the Application
-python main.py
 
 Future Improvements
 
